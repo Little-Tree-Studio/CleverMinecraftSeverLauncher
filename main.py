@@ -155,7 +155,7 @@ def get_api_base_url(service: str) -> str:
     }
 
     source = app_settings.get("download_source", "Official")
-    if source == "BMCLAPI (China Mirror)":
+    if source == "CMCLAPI (China Mirror)":
         mirror_sources = {
             "mojang_meta": "https://bmclapi2.bangbang93.com",
             "mojang_api": "https://bmclapi2.bangbang93.com",

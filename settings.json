@@ -1,0 +1,7 @@
+{
+    "theme": "dark",
+    "primary_color": "purple",
+    "java_path": "C:\\Program Files\\Zulu\\zulu-21\\bin\\java.exe",
+    "jvm_args": "-Xmx1024M -Xms1024M",
+    "download_source": "Official"
+}
